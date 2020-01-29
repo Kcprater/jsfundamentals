@@ -8,7 +8,7 @@ if (weather < 50) {
 
 let name = 'Kris Prater';
 
-if (name == 'Kri Prater') {
+if (name == 'Kris Prater') {
     console.log('Hello, name is ' + name + "." )
 } else {
    console.log('Hello, is your name' + name + "?");
@@ -38,6 +38,6 @@ if (age >= 25) {
 } else if (age >= 18) { 
     console.log('You can vote!');
 } else {
-    console.log('sorry')
+    console.log('Sorry, you cant have any fun.')
 }
 
