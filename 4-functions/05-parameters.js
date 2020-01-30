@@ -27,4 +27,25 @@ function myName(firstName, lastName) {
     console.log(`Hello, my name is ${fullName}`)
 }
 
+
+//my attempts below
+
 myName('Kris', 'Prater.');
+
+function items(item1, item2) {
+    let allitems= item1 + item2;
+    console.log(`this is my ${allitems}`)
+}
+items('myItem', 'myItem1')
+
+
+
+
+function myname(firstname, lastname) {
+    let fullname = firstname + lastname;
+    console.log(`my name is ${fullname}`);
+}
+
+myname('kris', 'prater')
+
+

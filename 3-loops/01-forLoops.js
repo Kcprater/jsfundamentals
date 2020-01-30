@@ -23,6 +23,10 @@ for (let i = 0; i >= -24; i = i - 2) {
     console.log(i);
 }
 
+
+
+
+
 let name = 'Kris';
 
 for (let i = 0; i < name.length; i ++) {
